@@ -1,2 +1,2 @@
-# FitPeo-DashboardAssignment-Shalini
-FitPeo-DashboardAssignment-Shalini
+# DashboardAssignment-Shalini
+DashboardAssignment-Shalini
